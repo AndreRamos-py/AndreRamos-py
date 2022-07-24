@@ -1,7 +1,7 @@
 ### Seja Bem-Vindo(a), Sou o André Ramos!
 
-- 🔭 No momento estou a procura de uma oportunidade como front-end!
-- 🌱 Estudando Sass, WordPress e JavaScript
+- 🔭 Estou a procura de uma oportunidade no mercado de trabalho!
+- 🌱 Estudando Python
 - 😄 Pronouns: ele/dele
 
  <div>
